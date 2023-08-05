@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #E3EDF6;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #7EBAF5;
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 580px;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #E3EDF6;
+    text-shadow: 3px 3px 5px black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
